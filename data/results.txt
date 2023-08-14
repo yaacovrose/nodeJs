@@ -1,0 +1,39 @@
+
+count words: 85Hello, this is a random text file. 
+
+It contains a bunch of random sentences, like this one about a happy kangaroo jumping over a rainbow. 
+
+Another random sentence might tell you about the time a robot decided to take a day off and go to the beach. 
+
+The robot didn't get a tan, of course, because robots are made of metal. 
+
+In any case, this is a very random text file. 
+
+I hope you find it entertaining, or at least slightly amusing. 
+
+Goodbye for now!
+
+
+now,for,Goodbye,amusing,slightly,least,at,or,entertaining,it,find,you,hope,I,file,text,random,very,a,is,this,case,any,In,metal,of,made,are,robots,because,course,of,tan,a,get,didn't,robot,The,beach,the,to,go,and,off,day,a,take,to,decided,robot,a,time,the,about,you,tell,might,sentence,random,Another,rainbow,a,over,jumping,kangaroo,happy,a,about,one,this,like,sentences,random,of,bunch,a,contains,It,file,text,random,a,is,this,HelloHello,this,is,a,random,text,file,It,contains,bunch,of,sentences,like,one,about,happy,kangaroo,jumping,over,rainbow,Another,sentence,might,tell,you,the,time,robot,decided,to,take,day,off,and,go,beach,The,didn't,get,tan,course,because,robots,are,made,metal,In,any,case,very,I,hope,find,it,
+entertaining,or,at,least,slightly,amusing,Goodbye,for,now
+
+upper uniq words:  
+
+HELLO THIS IS A RANDOM TEXT FILE IT CONTAINS BUNCH OF SENTENCES LIKE ONE ABOUT HAPPY KANGAROO JUMPING OVER RAINBOW ANOTHER SENTENCE MIGHT TELL YOU THE TIME ROBOT DECIDED TO TAKE DAY OFF AND GO BEACH THE DIDNT GET TAN COURSE BECAUSE ROBOTS ARE MADE METAL IN ANY CASE VERY I HOPE FIND IT ENTERTAINING OR AT LEAST SLIGHTLY AMUSING GOODBYE FOR NOWcount of uniq words: 36sentences
+
+
+rainbow
+contains
+Another
+kangaroo
+jumping
+sentence
+didn't
+decided
+because
+entertaining
+robots
+course
+slightly
+amusing
+Goodbye
